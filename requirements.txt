@@ -45,3 +45,4 @@ urllib3==1.25.5
 Werkzeug==0.16.0
 wrapt==1.11.2
 WTForms==2.2.1
+python-dotenv==0.13.0

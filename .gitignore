@@ -9,6 +9,8 @@ __pycache__
 
 # Settings
 .envrc
+.env
 
 # DB
 app.db
+migrations/
